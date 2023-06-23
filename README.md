@@ -11,4 +11,4 @@
 <br><code>/opt/php/7.4/bin/php -f /var/www/username/data/www/domain.tld/app.php mail_send</code> (каждый час)
 <br><code>/opt/php/7.4/bin/php -f /var/www/username/data/www/domain.tld/app.php mail_check</code> (каждые 15-30 минут)
 
-Последние 5 зеркал можно получить по ссылке: https://boyaroff.ru/tools/hdrezka/mirrors/
+Последние 5 зеркал можно получить по ссылке: [https://boyaroff.ru/tools/hdrezka/mirrors](https://boyaroff.ru/tools/hdrezka/mirrors)
